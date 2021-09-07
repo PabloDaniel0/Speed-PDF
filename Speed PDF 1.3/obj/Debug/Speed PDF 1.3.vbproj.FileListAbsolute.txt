@@ -1,0 +1,22 @@
+C:\Users\padaf\source\repos\Speed PDF 1.3\bin\Debug\Speed PDF 1.3.exe.config
+C:\Users\padaf\source\repos\Speed PDF 1.3\bin\Debug\Speed PDF 1.3.exe
+C:\Users\padaf\source\repos\Speed PDF 1.3\bin\Debug\Speed PDF 1.3.pdb
+C:\Users\padaf\source\repos\Speed PDF 1.3\bin\Debug\Speed PDF 1.3.xml
+C:\Users\padaf\source\repos\Speed PDF 1.3\obj\Debug\Speed_PDF_1._3.Form1.resources
+C:\Users\padaf\source\repos\Speed PDF 1.3\obj\Debug\Speed_PDF_1._3.Resources.resources
+C:\Users\padaf\source\repos\Speed PDF 1.3\obj\Debug\Speed PDF 1.3.vbproj.GenerateResource.cache
+C:\Users\padaf\source\repos\Speed PDF 1.3\obj\Debug\Speed PDF 1.3.vbproj.CoreCompileInputs.cache
+C:\Users\padaf\source\repos\Speed PDF 1.3\obj\Debug\Speed PDF 1.3.exe
+C:\Users\padaf\source\repos\Speed PDF 1.3\obj\Debug\Speed PDF 1.3.xml
+C:\Users\padaf\source\repos\Speed PDF 1.3\obj\Debug\Speed PDF 1.3.pdb
+C:\Users\padaf\source\repos\Speed PDF 1.3\bin\Debug\es-MX\Speed PDF 1.3.resources.dll
+C:\Users\padaf\source\repos\Speed PDF 1.3\bin\Debug\si-LK\Speed PDF 1.3.resources.dll
+C:\Users\padaf\source\repos\Speed PDF 1.3\obj\Debug\Speed_PDF_1._3.Form1.es-MX.resources
+C:\Users\padaf\source\repos\Speed PDF 1.3\obj\Debug\Speed_PDF_1._3.Form1.si-LK.resources
+C:\Users\padaf\source\repos\Speed PDF 1.3\obj\Debug\es-MX\Speed PDF 1.3.resources.dll
+C:\Users\padaf\source\repos\Speed PDF 1.3\obj\Debug\si-LK\Speed PDF 1.3.resources.dll
+C:\Users\padaf\source\repos\Speed PDF 1.3\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\padaf\source\repos\Speed PDF 1.3\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\padaf\source\repos\Speed PDF 1.3\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\padaf\source\repos\Speed PDF 1.3\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\padaf\source\repos\Speed PDF 1.3\obj\Debug\Speed PDF 1.3.vbproj.ResolveComReference.cache
