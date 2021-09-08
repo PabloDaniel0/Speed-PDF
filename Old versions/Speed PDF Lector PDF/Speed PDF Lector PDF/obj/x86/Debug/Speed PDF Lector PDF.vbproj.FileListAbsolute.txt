@@ -1,0 +1,19 @@
+C:\Users\padaf\documents\visual studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\padaf\documents\visual studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\padaf\documents\visual studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\obj\x86\Debug\Speed PDF Lector PDF.vbproj.ResolveComReference.cache
+C:\Users\padaf\documents\visual studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\bin\Debug\Speed PDF Lector PDF.exe
+C:\Users\padaf\documents\visual studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\bin\Debug\Speed PDF Lector PDF.pdb
+C:\Users\padaf\documents\visual studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\bin\Debug\Speed PDF Lector PDF.xml
+C:\Users\padaf\documents\visual studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\padaf\documents\visual studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\padaf\documents\visual studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\padaf\documents\visual studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\padaf\documents\visual studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\obj\x86\Debug\Speed PDF Lector PDF.vbproj.GenerateResource.Cache
+C:\Users\padaf\documents\visual studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\obj\x86\Debug\Speed PDF Lector PDF.exe
+C:\Users\padaf\documents\visual studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\obj\x86\Debug\Speed PDF Lector PDF.xml
+C:\Users\padaf\documents\visual studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\obj\x86\Debug\Speed PDF Lector PDF.pdb
+C:\Users\padaf\documents\visual studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\bin\Debug\Speed PDF Lector PDF.exe.manifest
+C:\Users\padaf\documents\visual studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\bin\Debug\Speed PDF Lector PDF.application
+C:\Users\padaf\documents\visual studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\obj\x86\Debug\Speed PDF Lector PDF.TrustInfo.xml
+C:\Users\padaf\documents\visual studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\obj\x86\Debug\Speed PDF Lector PDF.exe.manifest
+C:\Users\padaf\documents\visual studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\obj\x86\Debug\Speed PDF Lector PDF.application
