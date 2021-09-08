@@ -1,0 +1,19 @@
+C:\Users\padaf\Documents\Visual Studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\bin\Release\Speed PDF Lector PDF.exe.manifest
+C:\Users\padaf\Documents\Visual Studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\bin\Release\Speed PDF Lector PDF.application
+C:\Users\padaf\Documents\Visual Studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\bin\Release\Speed PDF Lector PDF.exe
+C:\Users\padaf\Documents\Visual Studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\bin\Release\Speed PDF Lector PDF.pdb
+C:\Users\padaf\Documents\Visual Studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\bin\Release\Speed PDF Lector PDF.xml
+C:\Users\padaf\Documents\Visual Studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\bin\Release\Interop.AcroPDFLib.dll
+C:\Users\padaf\Documents\Visual Studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\bin\Release\AxInterop.AcroPDFLib.dll
+C:\Users\padaf\Documents\Visual Studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\obj\x86\Release\Interop.AcroPDFLib.dll
+C:\Users\padaf\Documents\Visual Studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\obj\x86\Release\AxInterop.AcroPDFLib.dll
+C:\Users\padaf\Documents\Visual Studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\obj\x86\Release\Speed PDF Lector PDF.vbproj.ResolveComReference.cache
+C:\Users\padaf\Documents\Visual Studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\padaf\Documents\Visual Studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\padaf\Documents\Visual Studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\obj\x86\Release\Speed PDF Lector PDF.vbproj.GenerateResource.Cache
+C:\Users\padaf\Documents\Visual Studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\obj\x86\Release\Speed PDF Lector PDF.TrustInfo.xml
+C:\Users\padaf\Documents\Visual Studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\obj\x86\Release\Speed PDF Lector PDF.exe.manifest
+C:\Users\padaf\Documents\Visual Studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\obj\x86\Release\Speed PDF Lector PDF.application
+C:\Users\padaf\Documents\Visual Studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\obj\x86\Release\Speed PDF Lector PDF.exe
+C:\Users\padaf\Documents\Visual Studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\obj\x86\Release\Speed PDF Lector PDF.xml
+C:\Users\padaf\Documents\Visual Studio 2010\Projects\Speed PDF Lector PDF\Speed PDF Lector PDF\obj\x86\Release\Speed PDF Lector PDF.pdb

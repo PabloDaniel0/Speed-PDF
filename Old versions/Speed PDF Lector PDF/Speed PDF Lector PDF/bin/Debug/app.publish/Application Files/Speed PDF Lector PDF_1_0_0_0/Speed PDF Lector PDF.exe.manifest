@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Speed PDF Lector PDF.exe" version="1.0.0.0" publicKeyToken="d47bc6d4d7de439d" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="Speed PDF icono PNG.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Speed PDF Lector PDF" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Speed PDF Lector PDF.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- Opciones del manifiesto de Control de cuentas de usuario
+             Si desea cambiar el nivel de Control de cuentas de usuario de Windows, reemplace el 
+             nodo requestedExecutionLevel por alguno de los siguientes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            La especificación del nodo requestedExecutionLevel deshabilitará la virtualización de archivos y del Registro.
+            Si desea usar la virtualización de archivos y del Registro para la compatibilidad 
+            con versiones anteriores, elimine el nodo requestedExecutionLevel.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AxInterop.AcroPDFLib.dll" size="8192">
+      <assemblyIdentity name="AxInterop.AcroPDFLib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>rIvBb53s7jpiOJJnn8u0MtLt6Ag=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Interop.AcroPDFLib.dll" size="11776">
+      <assemblyIdentity name="Interop.AcroPDFLib" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>dAivuuQEvGYJZzbOuBPuKWqXRhQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Speed PDF Lector PDF.exe" size="286720">
+      <assemblyIdentity name="Speed PDF Lector PDF" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>V+yUaBDkcQdC9bdtdxNAuctbUrc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Speed PDF icono PNG.ico" size="263006">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>FE0AuJ9+WNENsHozo0uioq+RtSY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- Lista de todas las versiones de Windows con las que esta aplicación está diseñada para funcionar. Windows seleccionará automáticamente el entorno de mayor compatibilidad.-->
+      <!-- Si la aplicación está diseñada para funcionar con Windows 7, quite los comentarios del siguiente nodo supportedOS-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=DESKTOP-0QMBUAG\padaf" issuerKeyHash="7306e418fd3360e3bfc9d0f22a17cbb0f56ab073" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>iRFFkagFAXqvAEjbyeH99JRGEDg=</DigestValue></Reference></SignedInfo><SignatureValue>fAQdoDnUY/QHiTUZvUoNFp/rbiGILmbBo7Y55LYsw5uxWb1rALO/C1IYmIJQuUJBwaBnG0wmiLMVvSghAHLL5VvQMCL47UWDzfLsmcnUeVOq7uzk9MBqLI29KRjQHG2sVzphP+9wOVW8m3zQEahaLNw/lRvC5quKVNXcRbg60Fk=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>4Se/i8r10L/Qmxm6NerPJogvhjCsEdDKzQ4aibnZpffw1OI2rJtJ0/XA1ZtrPpZrr7M6MxvF0jXSc4u87cz7Hmuk4ARlC9YAi9xH1GqNV4vTugGNONjxieWf3UKVulrMVRcvofF6ta3I/qx5wTPhSOY0NhyNhuBeA+DcJKKmxz0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="38104694f4fde1c9db4800af7a0105a891451189" Description="" Url=""><as:assemblyIdentity name="Speed PDF Lector PDF.exe" version="1.0.0.0" publicKeyToken="d47bc6d4d7de439d" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-0QMBUAG\padaf</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>PQktzXZ828ZYl4ga7EopXzYeBMo=</DigestValue></Reference></SignedInfo><SignatureValue>Ym+c0UbncYmcCxS5wFlX5EKzIPeXCpClazcGgwlTSoMZdejqVlwaT6MVsRoF8NNBVGr8j+Wg+uWAbnA4UsYtkV7N4pAjqk88n1dP8+T25IQJ5w0tAn5GsF6qj5fdwNu2QHTyQJPYf+OeuOrPMqQVTME5Vh3T+AG2hvNQannX9uc=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>4Se/i8r10L/Qmxm6NerPJogvhjCsEdDKzQ4aibnZpffw1OI2rJtJ0/XA1ZtrPpZrr7M6MxvF0jXSc4u87cz7Hmuk4ARlC9YAi9xH1GqNV4vTugGNONjxieWf3UKVulrMVRcvofF6ta3I/qx5wTPhSOY0NhyNhuBeA+DcJKKmxz0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQMfeWUpRamb1I5EmZt+SaiTANBgkqhkiG9w0BAQUFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtADAAUQBNAEIAVQBBAEcAXABwAGEAZABhAGYwHhcNMjEwMjI4MTkxMTI0WhcNMjIwMzAxMDExMTI0WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtADAAUQBNAEIAVQBBAEcAXABwAGEAZABhAGYwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOEnv4vK9dC/0JsZujXqzyaIL4YwrBHQys0OGom52aX38NTiNqybSdP1wNWbaz6Wa6+zOjMbxdI10nOLvO3M+x5rpOAEZQvWAIvcR9RqjVeL07oBjTjY8Ynln91ClbpazFUXL6HxerWtyP6secEz4UjmNDYcjYbgXgPg3CSipsc9AgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAC0UIPHraxC7rIkRxZJl3MX2BYP8Yl1wRK0aNULUnsybB3hGlFIWKCTWc5zlnd6xogtW0ncdCBF0HogDhGtRtMjTo7PAm0dZMJcXzc/RryhVn8GwhadXRtoBUppQbsiAnU581vCk8SxPZnSq358Kyh20Jx0uDg4hPFqsQa1kPaeQ=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
