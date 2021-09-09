@@ -21,11 +21,9 @@
     <img src="https://img.shields.io/github/stars/PabloDaniel0/Speed-PDF.svg?style=flat-square" alt="Stars" />
   </a>
 </p>
-<h4>English</h4>
-<h4>Español</h4>
-<h4>Français</h4>
-
-
+  <p><a href="https://github.com/PabloDaniel0/Speed-PDF/blob/main/README.md#speed-pdf-a-fast-and-efficient-reader">English</a></p>
+  <p><a href="https://github.com/PabloDaniel0/Speed-PDF/blob/main/README.md#speed-pdf-un-lector-r%C3%A1pido-y-eficaz">Español</a></p>
+  <p><a href="https://github.com/PabloDaniel0/Speed-PDF/blob/main/README.md#speed-pdf-a-fast-and-efficient-reader">Français</a></p>
 <p>  </p>
 <p>
     <h3>Why would I choose Speed PDF over any other open source project?</h3>
