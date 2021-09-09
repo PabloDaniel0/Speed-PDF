@@ -47,7 +47,7 @@
 </ul>    
 <p>
     <h3>License:</h3>
-    <p>Custom License for Speed PDF</p>
+      <p><a href="https://github.com/PabloDaniel0/Speed-PDF/license">Custom License for Speed PDF</a></p>
     Let's talk about the license, it's short and simple to follow, check the details in the license file.
 </p>
 Thanks for visiting us at the end a gallery of images of the program.
@@ -74,11 +74,11 @@ Claro que sí, las colaboraciones son bienvenidas y se necesitan
 <li>Convertir RTF a PDF
 </ul>    
 </p>
-<p>
+
 <h3>Licencia:</h3>
-<p>Licencia Personalizada para Speed PDF</p>
+  <p><a href="https://github.com/PabloDaniel0/Speed-PDF/license">Licencia personalizada de Speed PDF</a></p>
 Hablemos de la licencia, es breve y simple de seguir, consulta los detalles en el archivo license.
-</p>
+
 Gracias por visitarnos al final una galería de imágenes del programa
 
 <p>       </p>
