@@ -10,7 +10,7 @@ S
   <a style="text-decoration:none" href="https://github.com/yaichenbaum/Quick-Pad/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/yaichenbaum/Quick-Pad?style=flat-square" alt="Contributors" />
   </a>
-  <a style="text-decoration:none" href="https://github.com/yaichenbaum/Quick-Pad/stargazers">
+  <a style="text-decoration:none" href="https://github.com/PabloDaniel0/Speed-PDF/stargazers">
     <img src="https://img.shields.io/github/stars/yaichenbaum/Quick-Pad.svg?style=flat-square" alt="Stars" />
   </a>
 </p>
