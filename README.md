@@ -31,11 +31,16 @@
     <h3>Can I collaborate?</h3>
     Of course you can, collaborations are welcome and needed.
 </p>
-Upcoming features:
-
+<h3>Upcoming features:</h3>
+Languages
+Topics
+Documentation
+Convert Plain Text to PDF
+Convert RTF to PDF
+Convert Docx to PDF
 <p>
     <h3>License:</h3>
-    Custom License for Speed PDF
+    <p>Custom License for Speed PDF</p>
     Let's talk about the license, it's short and simple to follow, check the details in the license file.
 </p>
 Thanks for visiting us at the end a gallery of images of the program.
