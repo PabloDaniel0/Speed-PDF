@@ -1,6 +1,9 @@
 # Speed PDF
 S
 <p align="center">
+    <a style="text-decoration:none" href="https://github.com/PabloDaniel0">
+    <img src="https://img.shields.io/github/followers/PabloDaniel0?label=follow%20me&style=social" alt="Followme" />
+  </a>
   <a style="text-decoration:none" href="https://github.com/PabloDaniel0/Speed-PDF/releases">
     <img src="https://img.shields.io/badge/Sitio%20Web-GitHub-Green.svg?style=flat-square" alt="Store link" />
   </a>
