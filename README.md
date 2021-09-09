@@ -7,6 +7,9 @@ S
   <a style="text-decoration:none" href="https://github.com/PabloDaniel0/Speed-PDF/releases">
     <img src="https://img.shields.io/github/v/release/PabloDaniel0/Speed-PDF.svg?style=flat-square" alt="Releases" />
   </a>
+    <a style="text-decoration:none" href="https://github.com/PabloDaniel0/Speed-PDF/network/members">
+    <img src="https://img.shields.io/github/forks/PabloDaniel0/Speed-PDF" alt="Forks" />
+  </a>
   <a style="text-decoration:none" href="https://github.com/yaichenbaum/Quick-Pad/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/PabloDaniel0/Speed-PDF?style=flat-square" alt="Contributors" />
   </a>
