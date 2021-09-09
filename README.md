@@ -25,6 +25,7 @@
 <p>
     <h3>Why would I choose Speed PDF over any other open source project?</h3>
     Speed PDF what could it offer against giants like Adobe Acrobat Reader DC©, simple, speed, a PDF reader that opens in a matter of seconds even on computers with low RAM, the       first version opened in a second on a computer with 4 GB of RAM, can you imagine what it would do if it had 16 GB RAM, incredible isn't it, the goal is that Speed PDF finds a      balance between speed, very necessary for productivity, and a complete suite of tools that allow the user to work easily and easily in this field of PDF files.
+    <img src="https://raw.githubusercontent.com/PabloDaniel0/Speed-PDF/main/Resources%20for%20Web%20and%20Documentation/Open-Speed-PDF.gif"/>
 </p>
 <p>
     <h3>Can I collaborate?</h3>
