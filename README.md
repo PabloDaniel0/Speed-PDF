@@ -61,7 +61,7 @@ Thanks for visiting us at the end a gallery of images of the program.
 </p> 
 <p>
 <h3>¿Puedo colaborar?</h3>
-Claro que sí, las colaboraciones son bienvenidas y se necesitan
+    Claro que sí, las colaboraciones son bienvenidas y se necesitan
 </p>
 <h3>Próximas funciones:</h3>
 <ul>
@@ -80,20 +80,29 @@ Hablemos de la licencia, es breve y simple de seguir, consulta los detalles en e
 Gracias por visitarnos al final una galería de imágenes del programa
 
 <p>       </p>
-Speed PDF : un lecteur rapide et efficace
-Pourquoi choisirais-je Speed PDF plutôt qu'un autre projet open source ?
+<h2>Speed PDF : un lecteur rapide et efficace</h2>
+<p>
+    <h3>Pourquoi choisirais-je Speed PDF plutôt qu'un autre projet open source ?</h3>
 Speed PDF qu'est-ce qu'il peut offrir contre des géants comme Adobe Acrobat Reader DC©, simple, la vitesse, un lecteur PDF qui s'ouvre en quelques secondes même sur des ordinateurs avec peu de RAM, la première version s'ouvrait en une seconde sur un ordinateur avec 4 GB de RAM, pouvez-vous imaginer ce qu'il ferait s'il avait 16 GB de RAM, incroyable n'est-ce pas, le but est que Speed PDF trouve un équilibre entre la vitesse, très nécessaire pour la productivité, et une suite complète d'outils qui permettent à l'utilisateur de travailler facilement dans ce domaine des fichiers PDF.
-Je peux collaborer ?
+</p>
+    <img src="https://raw.githubusercontent.com/PabloDaniel0/Speed-PDF/main/Resources%20for%20Web%20and%20Documentation/Open-Speed-PDF.gif"/>
+<p>
+<h3>Je peux collaborer ?</h3>
 Bien sûr que vous pouvez, les collaborations sont bienvenues et nécessaires.
-
-Prochains articles :
-Langues
-Sujets
-Documentation
-Convertir du texte brut en PDF
-Convertir RTF en PDF
-Licence :
-Licence personnalisée pour Speed PDF
+</p>
+<p>
+<h3>Prochains articles :</h3>
+<ul>
+<li>Langues
+<li>Sujets
+<li>Documentation
+<li>Convertir du texte brut en PDF
+<li>Convertir RTF en PDF
+</ul>
+</p>
+<p>
+<h3>Licence :</h3>
+<p><a href="https://github.com/PabloDaniel0/Speed-PDF/license">Licence personnalisée pour Speed PDF</a></p>
 Parlons de la licence, elle est courte et simple à suivre, voir les détails dans le fichier de licence.
-
+</p>
 Merci de nous rendre visite à la fin une galerie d'images du programme.
