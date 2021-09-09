@@ -21,8 +21,8 @@
     <img src="https://img.shields.io/github/stars/PabloDaniel0/Speed-PDF.svg?style=flat-square" alt="Stars" />
   </a>
 </p>
-  <p><a href="https://github.com/PabloDaniel0/Speed-PDF/blob/main/README.md#speed-pdf-a-fast-and-efficient-reader">English</a></p>
-  <p><a href="https://github.com/PabloDaniel0/Speed-PDF/blob/main/README.md#speed-pdf-un-lector-r%C3%A1pido-y-eficaz">Español</a></p>
+  <p><a href="https://github.com/PabloDaniel0/Speed-PDF#why-would-i-choose-speed-pdf-over-any-other-open-source-project">English</a></p>
+  <p><a href="https://github.com/PabloDaniel0/Speed-PDF#speed-pdf-un-lector-r%C3%A1pido-y-eficaz">Español</a></p>
   <p><a href="https://github.com/PabloDaniel0/Speed-PDF/blob/main/README.md#speed-pdf-a-fast-and-efficient-reader">Français</a></p>
 <p>  </p>
 <p>
