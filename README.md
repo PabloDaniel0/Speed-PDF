@@ -20,6 +20,10 @@
   <a style="text-decoration:none" href="https://github.com/PabloDaniel0/Speed-PDF/stargazers">
     <img src="https://img.shields.io/github/stars/PabloDaniel0/Speed-PDF.svg?style=flat-square" alt="Stars" />
   </a>
+<<img src="https://raw.githubusercontent.com/PabloDaniel0/Speed-PDF/main/Resources%20for%20Web%20and%20Documentation/Speed%20PDF%202.0%20Icono.svg"
+     alt="SVG not suported"
+     width="400"
+     height="400">
 </p>
   <p><a href="https://github.com/PabloDaniel0/Speed-PDF#why-would-i-choose-speed-pdf-over-any-other-open-source-project">English</a></p>
   <p><a href="https://github.com/PabloDaniel0/Speed-PDF#speed-pdf-un-lector-r%C3%A1pido-y-eficaz">Español</a></p>
