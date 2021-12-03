@@ -9,7 +9,6 @@
   </a>
   <a style="text-decoration:none" href="https://github.com/PabloDaniel0/Speed-PDF/releases">
     <img src="https://img.shields.io/github/v/release/PabloDaniel0/Speed-PDF.svg?style=flat-square" alt="Releases" />
-  </a>
     <a style="text-decoration:none" href="https://github.com/PabloDaniel0/Speed-PDF/network/members">
     <img src="https://img.shields.io/github/forks/PabloDaniel0/Speed-PDF" alt="Forks" />
   </a>
@@ -20,7 +19,7 @@
   <a style="text-decoration:none" href="https://github.com/PabloDaniel0/Speed-PDF/stargazers">
     <img src="https://img.shields.io/github/stars/PabloDaniel0/Speed-PDF.svg?style=flat-square" alt="Stars" />
   </a>
-<<img src="https://raw.githubusercontent.com/PabloDaniel0/Speed-PDF/main/Resources%20for%20Web%20and%20Documentation/Speed%20PDF%202.0%20Icono.svg"
+<img src="https://raw.githubusercontent.com/PabloDaniel0/Speed-PDF/main/Resources%20for%20Web%20and%20Documentation/Speed%20PDF%202.0%20Icono.svg"
      alt="SVG not suported"
      width="400"
      height="400">
@@ -33,6 +32,7 @@
     <h3>Why would I choose Speed PDF over any other open source project?</h3>
     Speed PDF what could it offer against giants like Adobe Acrobat Reader DC©, simple, speed, a PDF reader that opens in a matter of seconds even on computers with low RAM, the       first version opened in a second on a computer with 4 GB of RAM, can you imagine what it would do if it had 16 GB RAM, incredible isn't it, the goal is that Speed PDF finds a      balance between speed, very necessary for productivity, and a complete suite of tools that allow the user to work easily and easily in this field of PDF files.
     <img src="https://raw.githubusercontent.com/PabloDaniel0/Speed-PDF/main/Resources%20for%20Web%20and%20Documentation/Open-Speed-PDF.gif"/>
+    <img src="https://raw.githubusercontent.com/PabloDaniel0/Speed-PDF/main/Resources%20for%20Web%20and%20Documentation/RAM%20SPEED%20PDF.png" alt="PNG Images Not Suported :("/>
 </p>
 <p>
     <h3>Can I collaborate?</h3>
@@ -41,7 +41,7 @@
 <h3>Upcoming features:</h3>
 <ul>
     <li>Languages
-    <li>Topics
+    <li>Themes
     <li>Documentation
     <li>Convert Plain Text to PDF
     <li>Convert RTF to PDF
@@ -62,6 +62,7 @@ Thanks for visiting us at the end a gallery of images of the program.
 <h3>¿Por qué escogería Speed PDF en vez de cualquier otro proyecto de código abierto?</h3>
 ¿Speed PDF que podría ofrecer ante gigantes como Adobe Acrobat Reader DC©?, simple, velocidad, un lector PDF que abre en cuestión de segundos incluso en equipos con poca RAM, la primera versión abría en un segundo en un equipo con 4 GB de RAM, puedes imaginar que haría si tuviera 16 GB RAM?, increíble ¿no?, pues el objetivo es que Speed PDF encuentre un balance entre la velocidad, muy necesaria para la productividad, y una suite de herramientas completas que permitan al usuario desenvolverse y trabajar de manera sencilla en este campo de los archivos PDF.
     <img src="https://raw.githubusercontent.com/PabloDaniel0/Speed-PDF/main/Resources%20for%20Web%20and%20Documentation/Open-Speed-PDF.gif"/>
+    <img src="https://raw.githubusercontent.com/PabloDaniel0/Speed-PDF/main/Resources%20for%20Web%20and%20Documentation/RAM%20SPEED%20PDF.png" alt="Imagenes PNG no soportadas, prueba con otro navegador :("/>
 </p> 
 <p>
 <h3>¿Puedo colaborar?</h3>
@@ -90,6 +91,7 @@ Gracias por visitarnos al final una galería de imágenes del programa
 Speed PDF qu'est-ce qu'il peut offrir contre des géants comme Adobe Acrobat Reader DC©, simple, la vitesse, un lecteur PDF qui s'ouvre en quelques secondes même sur des ordinateurs avec peu de RAM, la première version s'ouvrait en une seconde sur un ordinateur avec 4 GB de RAM, pouvez-vous imaginer ce qu'il ferait s'il avait 16 GB de RAM, incroyable n'est-ce pas, le but est que Speed PDF trouve un équilibre entre la vitesse, très nécessaire pour la productivité, et une suite complète d'outils qui permettent à l'utilisateur de travailler facilement dans ce domaine des fichiers PDF.
 </p>
     <img src="https://raw.githubusercontent.com/PabloDaniel0/Speed-PDF/main/Resources%20for%20Web%20and%20Documentation/Open-Speed-PDF.gif"/>
+    <img src="https://raw.githubusercontent.com/PabloDaniel0/Speed-PDF/main/Resources%20for%20Web%20and%20Documentation/RAM%20SPEED%20PDF.png" alt="PNG Images Not Suported :("/>
 <p>
 <h3>Je peux collaborer ?</h3>
 Bien sûr que vous pouvez, les collaborations sont bienvenues et nécessaires.
