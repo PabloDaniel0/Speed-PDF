@@ -30,9 +30,17 @@
 <p>  </p>
 <p>
     <h3>Why would I choose Speed PDF over any other open source project?</h3>
-    Speed PDF what could it offer against giants like Adobe Acrobat Reader DC©, simple, speed, a PDF reader that opens in a matter of seconds even on computers with low RAM, the       first version opened in a second on a computer with 4 GB of RAM, can you imagine what it would do if it had 16 GB RAM, incredible isn't it, the goal is that Speed PDF finds a      balance between speed, very necessary for productivity, and a complete suite of tools that allow the user to work easily and easily in this field of PDF files.
+    Speed PDF what could it offer against giants like Adobe Acrobat Reader DC©, simple, speed, a PDF reader that opens in a matter of seconds even on computers with low RAM, the       first version opened in a second on a computer with 4 GB of RAM, can you imagine what it would do if it had 16 GB RAM, incredible isn't it, the goal is that Speed PDF finds a balance between speed, very necessary for productivity, and a complete suite of tools that allow the user to work easily and easily in this field of PDF files.
     <img src="https://raw.githubusercontent.com/PabloDaniel0/Speed-PDF/main/Resources%20for%20Web%20and%20Documentation/Open-Speed-PDF.gif"/>
     <img src="https://raw.githubusercontent.com/PabloDaniel0/Speed-PDF/main/Resources%20for%20Web%20and%20Documentation/RAM%20SPEED%20PDF.png" alt="PNG Images Not Suported :("/>
+</p>
+<p>
+    <h3>System Requirements</h3>
+    <ul>
+        <li>2GB RAM (4 GB Recommended)
+        <li>Windows XP or higher operating system version (Windows 10 and Windows 11 Recommended)
+        <li>Adobe Acrobat Reader DC installed on your computer
+    </ul>
 </p>
 <p>
     <h3>Can I collaborate?</h3>
@@ -63,7 +71,15 @@ Thanks for visiting us at the end a gallery of images of the program.
 ¿Speed PDF que podría ofrecer ante gigantes como Adobe Acrobat Reader DC©?, simple, velocidad, un lector PDF que abre en cuestión de segundos incluso en equipos con poca RAM, la primera versión abría en un segundo en un equipo con 4 GB de RAM, puedes imaginar que haría si tuviera 16 GB RAM?, increíble ¿no?, pues el objetivo es que Speed PDF encuentre un balance entre la velocidad, muy necesaria para la productividad, y una suite de herramientas completas que permitan al usuario desenvolverse y trabajar de manera sencilla en este campo de los archivos PDF.
     <img src="https://raw.githubusercontent.com/PabloDaniel0/Speed-PDF/main/Resources%20for%20Web%20and%20Documentation/Open-Speed-PDF.gif"/>
     <img src="https://raw.githubusercontent.com/PabloDaniel0/Speed-PDF/main/Resources%20for%20Web%20and%20Documentation/RAM%20SPEED%20PDF.png" alt="Imagenes PNG no soportadas, prueba con otro navegador :("/>
-</p> 
+</p>
+<p>
+    <h3>Requisitos del Sistema</h3>
+    <ul>
+        <li>2GB RAM (4 GB Recomendado)
+        <li>Windows XP o versión superior del sistema operativo (Windows 10 y Windows 11 Recomendados)
+        <li>Adobe Acrobat Reader DC instalado en el equipo
+    </ul>
+</p>
 <p>
 <h3>¿Puedo colaborar?</h3>
     Claro que sí, las colaboraciones son bienvenidas y se necesitan
